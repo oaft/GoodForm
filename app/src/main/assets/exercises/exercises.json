@@ -1,0 +1,87 @@
+[
+  {
+    "title": "1. Махи ногами назад",
+    "description": "15х2 раз каждой ногой",
+    "image_url": "images/mahi_nogami_nazad_1_jpg.jpg"
+  },
+  {
+    "title": "2. Махи ногами вбок",
+    "description": "15х2 раз каждой ногой",
+    "image_url": "images/mahi_nogami_v_bok_2.png"
+  },
+  {
+    "title": "3. Подъем на носки - стопы параллельно",
+    "description": "30 раз",
+    "image_url": "images/podem_na_noski_rovno_3.png"
+  },
+  {
+    "title": "4. Подъем на носки - носки наружу",
+    "description": "30 раз",
+    "image_url": "images/podem_na_noski_narugu_4.png"
+  },
+  {
+    "title": "5. Подъем на носки - носки внутрь",
+    "description": "30 раз",
+    "image_url": "images/podem_na_noski_vnytr_5.png"
+  },
+  {
+    "title": "6. Присед",
+    "description": "30 раз",
+    "image_url": "images/prised_6.png"
+  },
+  {
+    "title": "7. Тяга гантели к поясу в наклоне",
+    "description": "15х3 раз каждой рукой",
+    "image_url": "images/tyaga_gant_v_naklone_7.png"
+  },
+  {
+    "title": "8. Подъем бедра",
+    "description": "30 раз на каждую ногу",
+    "image_url": "images/podem_bedra_8.png"
+  },
+  {
+    "title": "9. Отжимания от стены",
+    "description": "30 раз",
+    "image_url": "images/itjimania_ot_steny_9.png"
+  },
+  {
+    "title": "10. Подъемы гантелей в стороны",
+    "description": "10х2 раз",
+    "image_url": "images/podem_ganteley_v_storony_10.png"
+  },
+  {
+    "title": "11. Подъем рук вперед с гантелью",
+    "description": "15 раз",
+    "image_url": "images/podem_ryk_s_ganteliu_11.png"
+  },
+  {
+    "title": "12. Сгибание рук с гантелями хватом молоток",
+    "description": "15 раз",
+    "image_url": "images/sgibanie_ruk_s_gantelyami_hvatom_molotok_12.png"
+  },
+  {
+    "title": "13. Сгибание рук с гантелями",
+    "description": "15 раз<",
+    "image_url": "images/sgibanie_ruk_s_gantelyami_13.png"
+  },
+  {
+    "title": "14. Разгибание руки с гантелью из-за головы",
+    "description": "15х2 раз каждой рукой",
+    "image_url": "images/razgibanie_ruki_iz_za_golovy_14.png"
+  },
+  {
+    "title": "15. Боковые наклоны стоя",
+    "description": "в каждую сторону по 30х2",
+    "image_url": "images/bokovye_naklony_15.png"
+  },
+  {
+    "title": "16. Наклоны вперед с прямой спиной",
+    "description": "50 раз",
+    "image_url": "images/naklon_vpered_16.png"
+  },
+  {
+    "title": "17. Тяга гантель на прямых ногах",
+    "description": "30 раз",
+    "image_url": "images/tyaga_gantelei_na_pryamyh_nogah_17.png"
+  }
+]

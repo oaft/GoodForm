@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/menu_about_app"
+        android:icon="@drawable/ic_fitness_center_black_24dp"
+        android:title="@string/mi_technique"/>
+
+    <item android:id="@+id/menu_item_day_first"
+        android:icon="@drawable/ic_filter_1_black_24dp"
+        android:title="@string/mi_first_day"/>
+
+    <item android:id="@+id/menu_item_day_second"
+        android:icon="@drawable/ic_filter_2_black_24dp"
+        android:title="@string/mi_second_day"/>
+
+    <item android:id="@+id/menu_item_day_third"
+        android:icon="@drawable/ic_filter_3_black_24dp"
+        android:title="@string/mi_third_day"/>
+
+    <item android:id="@+id/menu_item_day_fourth"
+        android:icon="@drawable/ic_filter_4_black_24dp"
+        android:title="@string/mi_fourth_day"/>
+
+    <item android:id="@+id/menu_item_day_fifth"
+        android:icon="@drawable/ic_filter_5_black_24dp"
+        android:title="@string/mi_fifth_day"/>
+
+    <item android:id="@+id/menu_item_simple_exercises"
+        android:icon="@drawable/ic_filter_vintage_black_24dp"
+        android:title="@string/mi_exercises"/>
+
+</menu>

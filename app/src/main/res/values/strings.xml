@@ -1,0 +1,142 @@
+<resources>
+    <string name="app_name">GoodForm</string>
+
+    <string name="title_1_1">1. Скручивания лежа</string>
+    <string name="description_1_1">30 раз</string>
+    <string name="title_1_2">2. Присед сумо с гантелями</string>
+    <string name="description_1_2">30 раз</string>
+    <string name="title_1_3">3. Жим гантелей лежа</string>
+    <string name="description_1_3">20 раз</string>
+    <string name="title_1_4">4. Тяга гантели из положения в наклоне к поясу</string>
+    <string name="description_1_4">20 раз на каждую сторону</string>
+    <string name="title_1_5">5. Выпады с гантелями</string>
+    <string name="description_1_5">25 раз</string>
+    <string name="title_1_6">6. Махи в сторону</string>
+    <string name="description_1_6">25 раз</string>
+    <string name="title_1_7">7. Разгибание руки из-за головы с гантелей</string>
+    <string name="description_1_7">30 раз на каждую сторону</string>
+
+    <string name="title_2_1">1. Подъем ног из положения лежа</string>
+    <string name="description_2_1">30 раз</string>
+    <string name="title_2_2">2. Диагональные выпады (реверансы) с гантелями</string>
+    <string name="description_2_2">25 раз</string>
+    <string name="title_2_3">3. Разводка гантель на наклонной скамье</string>
+    <string name="description_2_3">25 раз</string>
+    <string name="title_2_4">4. Тяга гантели к поясу в наклоне</string>
+    <string name="description_2_4">25 раз</string>
+    <string name="title_2_5">5. Вертикальный жим гантель</string>
+    <string name="description_2_5">10 раз</string>
+
+    <string name="title_3_1">1. Скручивания лежа</string>
+    <string name="description_3_1">25 раз</string>
+    <string name="title_3_2">2. Пуловер лежа</string>
+    <string name="description_3_2">20 раз</string>
+    <string name="title_3_3">3. Тяга гантели к поясу в наклоне</string>
+    <string name="description_3_3">20 раз</string>
+    <string name="title_3_4">4. Ягодичный мостик</string>
+    <string name="description_3_4">30 раз</string>
+    <string name="title_3_5">5. «Молотки» на бицепс</string>
+    <string name="description_3_5">20 раз</string>
+    <string name="title_3_6">6.Разгибание рук с гантелей в наклоне</string>
+    <string name="description_3_6">по 15 раз на каждую</string>
+
+    <string name="title_4_1">1. Скручивания лежа</string>
+    <string name="description_4_1">30 раз</string>
+    <string name="title_4_2">2. Тяга гантель на прямых ногах</string>
+    <string name="description_4_2">30 раз</string>
+    <string name="title_4_3">3. Пуловер стоя</string>
+    <string name="description_4_3">25 раз</string>
+    <string name="title_4_4">4. Разводка гантель лежа</string>
+    <string name="description_4_4">25 раз</string>
+    <string name="title_4_5">5. Приседания на подставку с гантелями</string>
+    <string name="description_4_5">25 раз</string>
+    <string name="title_4_6">6.Отжимания от пола с колен</string>
+    <string name="description_4_6">10 раз</string>
+
+    <string name="title_5_1">1. Планка</string>
+    <string name="description_5_1">2-3 минуты</string>
+    <string name="title_5_2">2. Наклоны с бодибаром</string>
+    <string name="description_5_2">25 раз</string>
+    <string name="title_5_3">3. Махи гантелями в стороны</string>
+    <string name="description_5_3">25 раз</string>
+    <string name="title_5_4">4. Выпады с гантелями</string>
+    <string name="description_5_4">25 раз</string>
+    <string name="title_5_5">5. Тяга гантели к поясу в наклоне</string>
+    <string name="description_5_5">по 25 раз на каждую сторону</string>
+    <string name="title_5_6">6. Жим лежа узким хватом</string>
+    <string name="description_5_6">15 раз</string>
+
+    <string name="title_1">1. Махи ногами назад</string>
+    <string name="description_1">15х2 раз каждой ногой</string>
+
+    <string name="title_2">2. Махи ногами вбок</string>
+    <string name="description_2">15х2 раз каждой ногой</string>
+
+    <string name="title_3">3. Подъем на носки - стопы параллельно</string>
+    <string name="description_3">30 раз</string>
+
+    <string name="title_4">4. Подъем на носки - носки наружу</string>
+    <string name="description_4">30 раз</string>
+
+    <string name="title_5">5. Подъем на носки - носки внутрь</string>
+    <string name="description_5">30 раз</string>
+
+    <string name="title_6">6. Присед</string>
+    <string name="description_6">30 раз</string>
+
+    <string name="title_7">7. Тяга гантели к поясу в наклоне</string>
+    <string name="description_7">15х3 раз каждой рукой</string>
+
+    <string name="title_8">8. Подъем бедра</string>
+    <string name="description_8">30 раз на каждую ногу</string>
+
+    <string name="title_9">9. Отжимания от стены</string>
+    <string name="description_9">30 раз</string>
+
+    <string name="title_10">10. Подъемы гантелей в стороны</string>
+    <string name="description_10">10х2 раз</string>
+
+    <string name="title_11">11. Подъем рук вперед с гантелью</string>
+    <string name="description_11">15 раз</string>
+
+    <string name="title_12">12. Сгибание рук с гантелями хватом "молоток"</string>
+    <string name="description_12">15 раз</string>
+
+    <string name="title_13">13. Сгибание рук с гантелями</string>
+    <string name="description_13">15 раз</string>
+
+    <string name="title_14">14. Разгибание руки с гантелью из-за головы</string>
+    <string name="description_14">15х2 раз каждой рукой</string>
+
+    <string name="title_15">15. Боковые наклоны стоя</string>
+    <string name="description_15">в каждую сторону по 30х2</string>
+
+    <string name="title_16">16. Наклоны вперед с прямой спиной</string>
+    <string name="description_16">50 раз</string>
+
+    <string name="exercise_pic">exercise pic</string>
+
+    <string name="mi_technique">Техника выполнения</string>
+    <string name="mi_first_day">Первый день</string>
+    <string name="mi_second_day">Второй день</string>
+    <string name="mi_third_day">Третий день</string>
+    <string name="mi_fourth_day">Четвертый день</string>
+    <string name="mi_fifth_day">Пятый день</string>
+    <string name="mi_exercises">Простые упражнения</string>
+
+    <string name="drawer_opened">opened</string>
+    <string name="drawer_closed">closed</string>
+    <string name="about_app">
+        Выполнять упражнения необходимо по круговому методу – одно за другим, без паузы, отдыхая по завершении круга 1-2 минуты.
+        \n\n
+        Если сразу не получается, можно делать небольшие паузы – секунд по 5-10.\n\n
+        Кругов нужно сделать 2-3.\n\n
+        Если сразу выполнять упражнения с гантелями или бодибаром не получается, попробуйте с собственным весом и вводите отягощения постепенно.
+       </string>
+    <string name="swipe_dialog">Проведите пальцем по экрану, чтобы перейти к следующему упражнению.</string>
+    <string name="ok">OK</string>
+    <string name="press_back">Для выхода из приложения нажмите кнопку "Назад" еще раз</string>
+    <string name="do_not_show_message">Больше не показывать это сообщение</string>
+
+
+</resources>
